@@ -1,0 +1,34 @@
+h2{
+    color: blue;
+    text-align: center;
+    text-decoration: underline;
+}
+body{
+    background-color: rgb(146, 114, 7);
+    font-family: sans-serif;
+    
+}
+table{
+    width: 50;
+    margin: 20px auto;
+}
+th{
+    border-width: 2px;
+    border-color: orangered;
+    border-style: groove;
+    border: 1px rgba(6, 241, 104, 0.103) solid;
+    text-align: center;
+    background-color: rgb(126, 23, 23);
+    color:greenyellow
+}
+td{
+    border:1px solid rgb(33, 33, 155)
+
+}
+p{
+    color:beige;
+}
+h3{
+    text-align: center;
+    text-decoration: underline;
+}

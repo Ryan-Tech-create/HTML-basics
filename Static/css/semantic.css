@@ -1,0 +1,60 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    background-image: image-set(url(../Images/Galaxy.jpg));
+}
+header{
+    background-color: rgb(155, 148, 55);
+    text-align: center;
+    color: brown;
+    padding: 10px 0;
+
+}
+nav ul{
+    list-style-type: none;
+}
+nav ul li{
+    display: inline;
+    margin: 0 15px;
+
+}
+nav ul li a{
+    text-decoration: none;
+    color: beige;
+    padding: 15px;
+    border-radius: 5px;
+}
+nav ul li a:hover{
+    color: goldenrod;
+    background-color: blueviolet;
+}
+main{
+    width: 80%;
+    margin: 10px auto;
+}
+section{
+    border: 1px solid goldenrod;
+    margin-bottom: 10px;
+    padding: 20px;
+    box-shadow: 2px 2px 2px grey;
+}
+h2{
+    color: brown;
+}
+h3{
+    color:green;
+}
+.proj{
+    background-color: blanchedalmond;
+    border: 1px solid goldenrod;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px grey;
+}
+footer{
+    background-color: rgb(156, 38, 38);
+    text-align: center;
+    padding: 10px 0;
+    color: antiquewhite;
+}
